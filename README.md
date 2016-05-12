@@ -1,6 +1,6 @@
 # cgorigin
 
-Set display alignment of monitors on the CLI
+Set display alignment of monitors on the CLI - built for OS X.
 
 ## usage
 
