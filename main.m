@@ -57,5 +57,5 @@ int main(int argc, const char * argv[]) {
 	err = CGCompleteDisplayConfiguration(configRef, kCGConfigurePermanently);
 	if(err != 0) NSLog(@"Error with applying configuration: %d\n", err);
 
-	return 1;
+	return 0;
 }
