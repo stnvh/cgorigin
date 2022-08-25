@@ -15,7 +15,7 @@ int main(int argc, const char * argv[]) {
 
 	if(!argv[1]) {
 		printf("usage: [-l | --list] [[-o | --origin] x y index] \n");
-		return 1;
+		return 0;
 	}
 
 	for(int i = 0; i < dispOnlineCount; i++) {
